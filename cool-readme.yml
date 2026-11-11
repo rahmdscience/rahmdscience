@@ -1,0 +1,13 @@
+# Settings: https://github.com/pedrocatalao/github-cool-readme#settings
+user: rahmdscience
+show: [summary, languages, contributions, weekly, about]
+count:
+  private: true
+  orgs: true
+look:
+  style: classic
+  color: github
+  background: none
+cards:
+  about:
+    headline: "Hi, I'm *Rahmad* — welcome to my space!"
